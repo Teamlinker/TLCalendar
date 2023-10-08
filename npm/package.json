@@ -1,0 +1,17 @@
+{
+  "name": "TLCalendar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "TLCalendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "./TLCalendar.d.ts",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}
